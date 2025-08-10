@@ -1,1 +1,1 @@
-# HSU_Engineering_Compettion_Gourmet
+# HSU_Engineering_Competition_Gourmet
