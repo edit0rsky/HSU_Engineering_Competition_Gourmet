@@ -208,3 +208,13 @@ __marimo__/
 
 yelp_dataset/
 output/
+
+###############
+
+*.keras
+Dataset/
+
+/.venv
+/.venv-tf
+.env
+/secrets
